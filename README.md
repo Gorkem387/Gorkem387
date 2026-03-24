@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gorkem.<br><br>Currently a Computer Science student. <br>I use GitHub to document my academic projects, coding exercises,<br>and personal research. <br>My goal is to strengthen my development foundations <br>while sharing my learning journey.
+Hi, I'm Gorkem.<br><br>Currently a Computer Science student. <br>I use GitHub to document my academic projects, coding exercises, and personal research. <br>My goal is to strengthen my development foundations <br>while sharing my learning journey.
 
 
 # 💻 Tech Stack:
