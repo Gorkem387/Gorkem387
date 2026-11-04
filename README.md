@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Gorkem Yildiz!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YnQWBOGVavTFK/giphy.gif" alt="Berserk Banner" width="40%" />
-</p>
-
 ### 🚀 Computer Science Student & Full-Stack Developer
 Passionate about building robust software architectures, implementing Clean Architecture patterns, and maintaining high software quality standards. I use GitHub to document my academic milestones, personal research, and continuous learning journey.
 
